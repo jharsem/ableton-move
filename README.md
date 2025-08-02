@@ -1,2 +1,2 @@
 # ableton-move
-Information adn Hacks for the Ableton Move
+Information and Hacks for the Ableton Move
